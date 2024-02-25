@@ -1,0 +1,10 @@
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\bin\Debug\NIK_gya.exe.config
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\bin\Debug\NIK_gya.exe
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\bin\Debug\NIK_gya.pdb
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\obj\Debug\NIK_gya.csproj.AssemblyReference.cache
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\obj\Debug\NIK_gya.csproj.CoreCompileInputs.cache
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\obj\Debug\NIK_gya.csproj.CopyComplete
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\obj\Debug\NIK_gya.exe
+C:\Users\Szántó Benjámin\source\repos\NIK_gya\NIK_gya\obj\Debug\NIK_gya.pdb
